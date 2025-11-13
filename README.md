@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Pablo (paaulmss) | Hello! I'm Pablo (paaulmss)
+# 👋 ¡Hola! Soy Paul (paaulmss) | Hello! I'm Paul (paaulmss)
 
 🎓 Estudiante de 2º DAW | 💻 Desarrollador en formación  
 🎓 2nd-year DAW Student | 💻 Junior Developer in training  
